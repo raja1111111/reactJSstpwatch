@@ -1,38 +1,83 @@
-.App {
-  text-align: center;
+.container{
+  margin-top: 50px;
+  height: 300px;
+  width: 60%;
+  border: 1px solid  rgb(177, 173, 173); ;
+  background-color: white;
+  margin-left: 20%;
+  border-bottom: none;
+
+}
+.time {
+  padding-top: 2%;
+  height: 40px;
+padding-left: 20%;
+border: 1px solid rgb(114, 25, 25); ;
+  
+}
+#display{
+  
+  width:100%;
+  font-size: 6vw;
+  margin-top: 50px;
+ 
+  text-align: left;
+ margin-bottom: 55px;
+ padding-left: 3%;
+
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.btn{
+  padding-top: 20px;
+  padding-left: 3%;
+ 
+  height: 60px;
+  
+  border: 1px solid rgb(177, 173, 173); 
+
+ 
+  text-align: left;
+
+}
+.btn :hover{
+  background-color: aqua;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.btn :active{
+  background-color: rgb(206, 86, 136);
+}
+.btn :visited{
+  background-color: indianred;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+#timer{
+  border: none;
+  background-color: rgb(221, 90, 90);
+  color: rgb(177, 173, 173); ;
+}
+#stopwatch{
+  border: none;
+  background-color:white;
+  margin-left: 30%;
+  color: rgb(190, 86, 86); ;
+
+}
+#startstop{
+  width: 6em;
+  height: 2em;
+  margin-right: 3%;
   color: white;
+  background-color: blue;
+  cursor: pointer;
 }
-
-.App-link {
-  color: #61dafb;
+#reset{
+  width: 6em;
+  height: 2em;
+  color: rgb(82, 16, 189);
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#stop{
+  width: 6em;
+  height: 2em;
+  color: rgb(82, 16, 189);
 }
