@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactJSstpwatch.git/static/css/main.50d1cc51.chunk.css",
+    "main.js": "/reactJSstpwatch.git/static/js/main.fbb3681b.chunk.js",
+    "main.js.map": "/reactJSstpwatch.git/static/js/main.fbb3681b.chunk.js.map",
+    "runtime-main.js": "/reactJSstpwatch.git/static/js/runtime-main.73d3865d.js",
+    "runtime-main.js.map": "/reactJSstpwatch.git/static/js/runtime-main.73d3865d.js.map",
+    "static/js/2.36fc358c.chunk.js": "/reactJSstpwatch.git/static/js/2.36fc358c.chunk.js",
+    "static/js/2.36fc358c.chunk.js.map": "/reactJSstpwatch.git/static/js/2.36fc358c.chunk.js.map",
+    "static/js/3.dcb13813.chunk.js": "/reactJSstpwatch.git/static/js/3.dcb13813.chunk.js",
+    "static/js/3.dcb13813.chunk.js.map": "/reactJSstpwatch.git/static/js/3.dcb13813.chunk.js.map",
+    "index.html": "/reactJSstpwatch.git/index.html",
+    "static/css/main.50d1cc51.chunk.css.map": "/reactJSstpwatch.git/static/css/main.50d1cc51.chunk.css.map",
+    "static/js/2.36fc358c.chunk.js.LICENSE.txt": "/reactJSstpwatch.git/static/js/2.36fc358c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73d3865d.js",
+    "static/js/2.36fc358c.chunk.js",
+    "static/css/main.50d1cc51.chunk.css",
+    "static/js/main.fbb3681b.chunk.js"
+  ]
+}
